@@ -1,7 +1,6 @@
 # app-dev
 My first repository 
-*Bold Text88**
-*italicized text*
+
 #My top Favorite Anime Series#
 #Dragon ball 
 The iconic Kamehameha wave was inspired by a move from a Bruce Lee movie called "Finger Dart Popping". Akira Toriyama, the creator of Dragon Ball, was a fan of Bruce Lee and incorporated this move into his series.
